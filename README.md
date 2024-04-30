@@ -10,3 +10,5 @@ Parse wikipedia exercise!
 * Node.js v20
 * Install [GitHub Large File Storage Support](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage)
 * Clone this repo
+
+Video reference: https://www.youtube.com/watch?v=edB964-YYpE
